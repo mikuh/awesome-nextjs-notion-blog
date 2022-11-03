@@ -1,27 +1,27 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '6a76fdd9ec6d4ae2855aa790d620eec4',
+  rootNotionPageId: '08ff6a25f59b4266bf03048116c061ef',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜饼的技术博客',
-  domain: 'szufrank.top',
-  author: '菜饼同学',
+  name: 'It\'s the only NEET thing to do',
+  domain: 'geb',
+  author: 'geb',
 
   // open graph metadata (optional)
-  description: '菜饼同学: 专注硬核技术，校招打法，个人认知体系成长',
-  socialImageTitle: '菜饼同学',
+  description: '聚焦于深度学习、强化学习、隐私计算等的研究',
+  socialImageTitle: 'geb',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: null,
-  github: 'frankcbliu',
-  wechatPublicName: '菜饼不菜',
-  wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
-  notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
+  github: 'mikuh',
+  wechatPublicName: 'geb',
+  // wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
+  notionPublic: 'https://extreme-yoke-1d9.notion.site/08ff6a25f59b4266bf03048116c061ef',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
